@@ -1,0 +1,23 @@
+# example slider
+- selector: example_slider
+  captions: false
+  interval: null
+  transitionDuration: 0
+  images:
+    - src: /images/000032310004.png
+      alt: 000032310004
+    - src: /images/000032310009.png
+      alt: 000032310009
+    - src: /images/000032310012.png
+      alt: 000032310012
+    - src: /images/000032310015.png
+      alt: 000032310015  
+    - src: /images/000032310017.png
+      alt: 000032310017
+    - src: /images/000032310020.png
+      alt: 000032310020
+    - src: /images/000032310025.png
+      alt: 000032310025
+  settings:
+    height: "'auto'"
+    effect: "'slide'"
