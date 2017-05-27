@@ -21,3 +21,28 @@
   settings:
     height: "'auto'"
     effect: "'slide'"
+# example slider
+- selector: espio70test_slider
+  captions: false
+  interval: null
+  transitionDuration: 0
+  images:
+    - src: /images/007_18A.png
+      alt: 007_18A
+    - src: /images/010_15A.png
+      alt: 010_15A
+    - src: /images/012_13A.png
+      alt: 012_13A
+    - src: /images/014_11A.png
+      alt: 014_11A
+    - src: /images/015_10A.png
+      alt: 015_10A
+    - src: /images/020_5A.png
+      alt: 020_5A
+    - src: /images/001_24A.png
+      alt: 001_24A
+    - src: /images/016_9A.png
+      alt: 016_9A.png
+  settings:
+    height: "'auto'"
+    effect: "'slide'"
