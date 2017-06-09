@@ -46,3 +46,34 @@
   settings:
     height: "'auto'"
     effect: "'slide'"
+# example slider
+- selector: olympusstylusepic_slider
+  captions: false
+  interval: null
+  transitionDuration: 0
+  images:
+    - src: /images/000025350005.png
+      alt: 000025350005
+    - src: /images/000025350007.png
+      alt: 000025350007
+    - src: /images/000025350009.png
+      alt: 000025350009
+    - src: /images/000025350011.png
+      alt: 000025350011
+    - src: /images/000025350017.png
+      alt: 0000253500017.png
+    - src: /images/000025350019.png
+      alt: 000025350019
+    - src: /images/000025350020.png
+      alt: 000025350020.png
+    - src: /images/000025350021.png
+      alt: 000025350021.png
+    - src: /images/000025350022.png
+      alt: 000025350022.png
+    - src: /images/000025350024.png
+      alt: 000025350024.png
+    - src: /images/000025350035.png
+      alt: 000025350035.png
+  settings:
+    height: "'auto'"
+    effect: "'slide'"
