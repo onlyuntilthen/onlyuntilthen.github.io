@@ -6,7 +6,7 @@ image_sliders:
   - olympusstylusepic_slider
 excerpt_separator: ___
 ---
-  ![image-title-here]({{ site.baseurl }}//images/000025350010.png){:class="img-responsive"}
+  ![image-title-here]({{ site.baseurl }}/images/000025350010.png){:class="img-responsive"}
   ___
   <br/>
   <br/>
