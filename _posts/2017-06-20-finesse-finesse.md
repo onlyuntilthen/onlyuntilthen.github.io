@@ -14,7 +14,7 @@ excerpt_separator: ___
   ![image-title-here]({{ site.baseurl }}/images/000040750003.png){:class="img-responsive"}
   ![image-title-here]({{ site.baseurl }}/images/000040750006.png){:class="img-responsive"}
   ![image-title-here]({{ site.baseurl }}/images/000040750005.png){:class="img-responsive"} 
-  The homie Finesse Finesse. Shot with Olympus mju-1 x Expire Velvia 50
+  The homie Finesse Finesse. Shot with Olympus mju-1 x Expired Velvia 50
   <br/>
   <br/>
   -- only.
