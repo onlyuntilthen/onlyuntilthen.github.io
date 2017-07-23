@@ -4,7 +4,7 @@ title: young only
 description: This blog serves as documentation for Neil's progress in webmastering as well as to share some thoughts, insights and daily happenings.
 ---
 
-<p style="text-align:center">An outlet for social commentary through creative means
+<p style="text-align:center">Commentary through creative means
 <br/>
 <br/>---</p>
 <section class="archive-post-list" style="align:center">
