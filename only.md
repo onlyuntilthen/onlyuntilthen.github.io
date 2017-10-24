@@ -1,7 +1,7 @@
 ---
 layout: default
 title: young only
-description: This blog serves as documentation for Neil's progress in webmastering as well as to share some thoughts, insights and daily happenings.
+description: onlyuntilthen
 ---
 
 <p style="text-align:center">Commentary through creative means
