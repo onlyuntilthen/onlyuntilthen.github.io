@@ -4,7 +4,7 @@ title: young only
 description: onlyuntilthen
 ---
 
-<p style="text-align:center">Commentary through creative means
+<p style="text-align:center">Social commentary through creative means
 <br/>
 <br/>---</p>
 <section class="archive-post-list" style="align:center">
