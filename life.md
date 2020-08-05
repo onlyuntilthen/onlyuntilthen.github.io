@@ -12,7 +12,7 @@ description: life life
   <fieldset id="fs-frm-inputs">
     <br/><input type="text" name="name" id="full-name" placeholder="name" required="" size="25">
     <br/><input type="email" name="_replyto" id="email-address" placeholder="email" required="" size="25">
-    <br/><textarea rows="5" name="message" id="message" placeholder="message" required="" style="font-family:Helvetica Neue"></textarea>
+    <br/><textarea rows="5" cols="25" name="message" id="message" placeholder="message" required="" style="font-family:Helvetica Neue"></textarea>
     <br/><input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
   <input type="submit" value="send" style="font-family:Helvetica Neue">
