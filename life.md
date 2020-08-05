@@ -15,6 +15,6 @@ description: life life
     <br/><textarea rows="5" cols="25" name="message" id="message" placeholder="message" required="" style="font-family:Helvetica Neue"></textarea>
     <br/><input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="send" style="font-family:Helvetica Neue;background: black;border-radius: 1px;color:white;font-size:12px;padding:10px;font-weight:300;&:hover{background: gray;}">
+  <input type="submit" value="[ send ]" style="font-family:Helvetica Neue;background: black;border-radius: 1px;color:white;font-size:12px;padding:10px;font-weight:300;&:hover{background: gray;}">
 </form>
 
