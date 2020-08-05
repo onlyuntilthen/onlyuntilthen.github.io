@@ -4,7 +4,7 @@ title: life life
 description: life life
 ---
 
-<p style="text-align:center">life hard. life good. give thanks.
+<p style="text-align:center">life life. give thanks. let's talk.
 <br/>
 <br/>---</p>
 <!-- modify this form HTML and place wherever you want your form -->
