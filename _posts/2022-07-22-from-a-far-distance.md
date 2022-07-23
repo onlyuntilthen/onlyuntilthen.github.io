@@ -4,7 +4,7 @@ title: from a far distance
 description: from a far distance now available on Blurb.ca
 excerpt_separator: ___
 ---
-  ![image-title-here]({{ site.baseurl }}/images/book_b.png){:class="img-responsive"}
+  ![image-title-here]({{ site.baseurl }}/images/book_b.jpeg){:class="img-responsive"}
   ___
   <br/>
   <br/>

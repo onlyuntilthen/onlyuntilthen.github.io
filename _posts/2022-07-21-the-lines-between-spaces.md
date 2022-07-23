@@ -4,7 +4,7 @@ title: the lines between spaces
 description: the lines between spaces now available on Blurb.ca
 excerpt_separator: ___
 ---
-  ![image-title-here]({{ site.baseurl }}/images/book_a.png){:class="img-responsive"}
+  ![image-title-here]({{ site.baseurl }}/images/book_a.jpeg){:class="img-responsive"}
   ___
   <br/>
   <br/>
